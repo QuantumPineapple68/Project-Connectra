@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Connectra – Skill Exchange & Learning Platform</h1>
+<h1 align="center">🚀 Connectra – Skill Exchange Platform</h1>
 
 <h3 align="center"> Connectra is an Innovative Android app designed to connect individuals based on their skills and learning goals. Whether you want to learn a new skill or teach someone, Connectra helps you find the right match seamlessly.</h3>
 
@@ -7,8 +7,8 @@
 <a href="">
     <img alt="Get it on Google Play" height="100"
         src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" /></a></br>
-🔹 **Admin App:** [Download Connectra Admin APK](#)  
-(*Replace `#` with actual APK links after upload.*)</br>
+        
+🔹 **ADMIN APP**: [Download Connectra Admin APK](#)
 
 
 
@@ -21,13 +21,24 @@
 ✔ **Task Scheduling** – Built-in to-do checklist to track learning progress.  </br>
 
 
-## 🖼️ Screenshots & Demo  
+## ✨ Client App
+![1](https://github.com/user-attachments/assets/a2d6b9b4-a9ac-4515-9410-ee19fdd79693)
+![2](https://github.com/user-attachments/assets/aa9ebc13-fc35-4704-873d-d7a6ea774480)
+![3](https://github.com/user-attachments/assets/3cdb9d87-2236-4cbf-81ee-279a4074265f)
+![4](https://github.com/user-attachments/assets/54c9ce11-a3a0-466f-8053-2eadd458e73b)
+![5](https://github.com/user-attachments/assets/567730d6-26d7-44f3-8c36-fa8afd035c96)
+
+## 🤵 Admin App
+![3](https://github.com/user-attachments/assets/923eb64a-d4cc-4971-af72-c439ec4cabd6)
 
 
+📽️ **Video Demo:**
 
-📽️ **Video Demo:** [Watch on YouTube](#)  
-(*Replace `#` with actual video link after uploading.*)  
+https://github.com/user-attachments/assets/d49217ce-f36b-4bd6-b10f-ebfa4421a178
 
+## ✍️ Blogs on Connectra
+### [Connectra Technical Insights](https://my-learnt-tech-stacks.hashnode.dev/connectra-insights)
+### [**Project Connectra**](https://my-learnt-tech-stacks.hashnode.dev/project-connectra)
 
 
 ## 📲 Installation Guide  
@@ -47,7 +58,7 @@
 ## 📬 Contact  
 💼 **Want to collaborate or hire me?** Feel free to connect!  
 📧 Email: [nachiketj14@gmail.com](mailto:nachiketj14@gmail.com)  
-🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 LinkedIn: [Nachiket Jadhav](https://www.linkedin.com/in/nachiket-jadhav-pune/)  
 
 
 ### ⭐ **If you like this project, consider starring the repo!** ⭐  
